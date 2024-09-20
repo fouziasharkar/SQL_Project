@@ -117,8 +117,3 @@ class DB:
         return data
 
 
-
-
-
-db = DB()
-db.expensive_airline()
