@@ -107,7 +107,7 @@ class DB:
         GROUP BY 
         Airline
         ORDER BY 
-        price DESC Limit 5;
+        price DESC Limit 5
         
         """)
 
